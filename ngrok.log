@@ -1,0 +1,11 @@
+t=2023-03-16T21:28:13+0000 lvl=info msg="no configuration paths supplied"
+t=2023-03-16T21:28:13+0000 lvl=info msg="ignoring default config path, could not stat it" path=/home/love/snap/ngrok/89/.config/ngrok/ngrok.yml
+t=2023-03-16T21:28:13+0000 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040
+t=2023-03-16T21:28:18+0000 lvl=warn msg="failed to check for update" obj=updater err="Post \"https://update.equinox.io/check\": context deadline exceeded"
+t=2023-03-16T21:28:19+0000 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2023-03-16T21:28:19+0000 lvl=info msg="client session established" obj=csess id=0ad16fa5b40a
+t=2023-03-16T21:28:19+0000 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=http://localhost:8080 url=https://a557-178-34-158-95.eu.ngrok.io
+t=2023-03-16T21:30:40+0000 lvl=info msg="join connections" obj=join id=589f8a72d498 l=127.0.0.1:8080 r=178.34.158.95:52015
+t=2023-03-16T21:30:55+0000 lvl=info msg="join connections" obj=join id=44a6a40aa35c l=127.0.0.1:8080 r=178.34.158.95:52066
+t=2023-03-16T21:31:31+0000 lvl=info msg="join connections" obj=join id=532f47c201ad l=127.0.0.1:8080 r=95.108.213.198:41490
+t=2023-03-16T21:34:54+0000 lvl=info msg="join connections" obj=join id=bb400a94d380 l=127.0.0.1:8080 r=140.82.115.109:42691
